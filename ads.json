@@ -1,0 +1,36 @@
+{
+  "ads":[
+        {
+          "id":"0",
+          "image":"https://raw.githubusercontent.com/adegirmencis/youtubeads/master/ads_0.png",
+          "link":"https://github.com/adegirmencis/youtubeads/blob/master/ads_0.png",
+          "date":"01.12.2019",
+          "title":"Reklam 0",
+          "description":"Reklam 0 ın açıklaması bu babacım"
+         },
+        {
+          "id":"1",
+          "image":"https://raw.githubusercontent.com/adegirmencis/youtubeads/master/ads_1.png",
+          "link":"https://github.com/adegirmencis/youtubeads/blob/master/ads_1.png",
+          "date":"06.10.2019",
+          "title":"Reklam 1",
+          "description":"Reklam 1 ın açıklaması bu babacım"
+         },
+        {
+          "id":"2",
+          "image":"https://raw.githubusercontent.com/adegirmencis/youtubeads/master/ads_2.png",
+          "link":"https://github.com/adegirmencis/youtubeads/blob/master/ads_2.png",
+          "date":"15.11.2019",
+          "title":"Reklam 2",
+          "description":"Reklam 2 ın açıklaması bu babacım"
+         },
+        {
+          "id":"3",
+          "image":"https://raw.githubusercontent.com/adegirmencis/youtubeads/master/ads_3.png",
+          "link":"https://github.com/adegirmencis/youtubeads/blob/master/ads_3.png",
+          "date":"11.6.2019",
+          "title":"Reklam 3",
+          "description":"Reklam 3 ın açıklaması bu babacım"
+         }
+    ]
+}
